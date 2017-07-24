@@ -16,3 +16,5 @@ him before redistributing.
 
 The [Jupyter](https://anaconda.org/anaconda/jupyter) notebooks are made available and are copyright of Dr Paul
 Griffiths, please contact me before distributing using the contact details available through this site.
+
+Best thing is to download the src directory via the 'Download' option as a zip file and then edit on your own machine.
